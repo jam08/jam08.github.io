@@ -29,7 +29,7 @@ h1 {
     font-size: 3em;
     padding: 0;
 }
-
+/* Cound't use shortcut to borders. Don't know why*/
 h2 {
     position: relative;
     color: black;
